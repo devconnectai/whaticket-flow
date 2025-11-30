@@ -38,7 +38,7 @@
 ### Comando de Instalação
 
 ```bash
-apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.AI && sudo git clone https://github.com/andrew890074/Connect.AI.git && cd Connect.AI && sudo chmod +x ./devconnectai && ./devconnectai
+apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf whaticket-flow && sudo git clone https://github.com/devconnectai/whaticket-flow.git && cd whaticket-flow && sudo chmod +x ./devconnectai && ./devconnectai
 ```
 
 ---
